@@ -36,6 +36,7 @@ Feature 1 - Alphabet letter with a corresponding colour-coded image.
 <img width="764" alt="Screenshot 2024-11-08 at 8 16 02 pm" src="https://github.com/user-attachments/assets/56bd0ee8-a25a-458b-b0da-9b89f0779b7e">
 
 Feature 2 - Interactive reset button.
+
 <img width="143" alt="Screenshot 2024-11-08 at 8 16 07 pm" src="https://github.com/user-attachments/assets/85dbade0-4261-4e66-9a66-100a3dfbd393">
 
 ## Setup
