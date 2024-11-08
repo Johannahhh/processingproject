@@ -43,8 +43,11 @@ Feature 2 - Interactive reset button.
 This project required the use of Processing 4. It also required the utilisation of the project's library to be able to add images to the animation. To complete this kind of project, you would simply download Processing 4 and add images to the file's library. You would also need to familiarise yourself with code commands. I found the following links useful.
 
 https://quickref.me/python.html - Python Commands
+
 https://py.processing.org/reference/ - Processing References for Python
+
 https://processing.org/tutorials/ - Processing Animation Tutorials
+
 https://www.youtube.com/watch?v=InBy_qyXWPA&ab_channel=Mr.Cordiner - YouTube Tutorial for Processing animation beginners.
 
 ## Usage
