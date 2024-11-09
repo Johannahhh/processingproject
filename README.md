@@ -40,7 +40,7 @@ Feature 2 - Interactive reset button.
 <img width="143" alt="Screenshot 2024-11-08 at 8 16 07 pm" src="https://github.com/user-attachments/assets/85dbade0-4261-4e66-9a66-100a3dfbd393">
 
 ## Setup
-This project required the use of Processing 4. It also required the utilisation of the project's library to be able to add images to the animation. To complete this kind of project, you would simply download Processing 4 and add images to the file's library. You would also need to familiarise yourself with code commands. I found the following links useful.
+This project required the use of Processing 4. It also required the utilisation of the project's library to be able to add images to the animation. To complete this kind of project, you would simply download Processing 4 and add images to the project file's library. You would also need to familiarise yourself with code commands. I found the following links useful.
 
 https://quickref.me/python.html - Python Commands
 
@@ -56,7 +56,7 @@ To use Processing to animate, you will need to do the following.
 Firstly, make sure that Python Mode for Processing by Jonathan Feinberg is downloaded, as Processing opens with Java and will not run this code. 
 Install this by going to the top of the screen where it says Java and clicking it.
 You then press manage modes, search Python and press Python Mode for Processing by Jonathan Feinberg. Once it is downloaded, press the Java symbol and change it to Python.
-Make sure all the images from my GitHub file for "Data and Code" are downloaded into your Python processing folder. Once the images are added to the folder from the Git, it will run.
+Make sure all the images from my GitHub file for "Data and Code" are downloaded into your sketch's processing folder. Once the images are added to the folder from the Git, it will run.
 
 import time 
 frame=0
@@ -98,7 +98,7 @@ def draw():
         frame = (frame + 1) % len(images)
         last_frame = time.time()    
 
-'Def draw' or define draw is how we are going to paste the image in a certain spot.
+'Def draw' or define draw is how we are going to animate.
 Global frame and last frame means it'll show up on all frames.
 'Background (0)' means the background colour for the images will be black, as 0 represents black.
 
@@ -115,11 +115,11 @@ This project is complete.
 ## Room for Improvement
 An improvement I could have made was to perhaps separate the corresponding images from the letter instead of making it all one image. This way, I could have potentially animated the images, as adding a transition would be more appealing to children, who are my target audience. 
 
-I also could have added a sound features. I found it very difficult to include sound in the project, so I decided not to include it altogether. With further time, practice and troubleshooting, I believe this could have been achieved. 
+I also could have added sound features. I found it very difficult to include sound in the project, so I decided not to include it altogether. With further time, practice and troubleshooting, I believe this could have been achieved. 
 
 ## Acknowledgements
 This project was inspired by alphabet songs taught in schools while giving it a unique and interactive twist.
-I'd like to thank my tutor and head of Working with Data and Code for helping to educate myself and the cohort on coding.
+I'd like to thank my tutor staff of Working with Data and Code for helping to educate myself and the cohort on coding.
 Furthermore, I would not have been able to perfect this project without the help of the resources I have linked in the 'Setup' heading.
 
 ## Contact
