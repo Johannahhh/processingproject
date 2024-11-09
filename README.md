@@ -48,10 +48,15 @@ https://py.processing.org/reference/ - Processing References for Python
 
 https://processing.org/tutorials/ - Processing Animation Tutorials
 
-https://www.youtube.com/watch?v=InBy_qyXWPA&ab_channel=Mr.Cordiner - YouTube Tutorial for Processing animation beginners.
+https://www.youtube.com/watch?v=InBy_qyXWPA&ab_channel=Mr.Cordiner - YouTube Tutorial for Processing Animation Beginners.
 
 ## Usage
 To use Processing to animate, you will need to do the following. 
+
+Firstly, make sure that Python Mode for Processing by Jonathan Feinberg is downloaded, as Processing opens with Java and will not run this code. 
+Install this by going to the top of the screen where it says Java and clicking it.
+You then press manage modes, search Python and press Python Mode for Processing by Jonathan Feinberg. Once it is downloaded, press the Java symbol and change it to Python.
+Make sure all the images from my GitHub file for "Data and Code" are downloaded into your Python processing folder. Once the images are added to the folder from the Git, it will run.
 
 import time 
 frame=0
